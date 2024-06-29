@@ -1,6 +1,11 @@
 # Minesweeper in Java
 A minesweeper game project implemented in Java using NetBeans as a school project with a simple and un-complicated understanding UI. This project was made in Apache Netbeans IDE 16. Also it is in Spanish language.
 
+# What I learnt while working on this project
+* The whole concept behind the game itself since I had no idea on how to play one.
+* How the algorithm minesweeper uses work.
+* How to create UIs using Java Swing library and modify them dynamically.
+
 # How to Install and Run
 * Make sure you have Apache Netbeans IDE installed (Preferably 16 and up)
 * Download the Zip file from this repository
